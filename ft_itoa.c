@@ -12,6 +12,7 @@
 
 #include "libft.h"
 #include <stdio.h>
+
 static void	ft_reverse(char *s)
 {
 	size_t	i;
